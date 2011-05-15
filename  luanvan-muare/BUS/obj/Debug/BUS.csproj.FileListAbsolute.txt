@@ -1,0 +1,9 @@
+E:\LUANVAN_ASP\MuaRe\BUS\bin\Debug\BUS.dll
+E:\LUANVAN_ASP\MuaRe\BUS\bin\Debug\BUS.pdb
+E:\LUANVAN_ASP\MuaRe\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\LUANVAN_ASP\MuaRe\BUS\obj\Debug\BUS.dll
+E:\LUANVAN_ASP\MuaRe\BUS\obj\Debug\BUS.pdb
+E:\LUANVAN_ASP\MuaRe\BUS\bin\Debug\DAO.dll
+E:\LUANVAN_ASP\MuaRe\BUS\bin\Debug\DTO.dll
+E:\LUANVAN_ASP\MuaRe\BUS\bin\Debug\DAO.pdb
+E:\LUANVAN_ASP\MuaRe\BUS\bin\Debug\DTO.pdb

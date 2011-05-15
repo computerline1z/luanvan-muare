@@ -1,0 +1,7 @@
+E:\LUANVAN_ASP\MuaRe\Test\bin\Test.dll
+E:\LUANVAN_ASP\MuaRe\Test\bin\Test.pdb
+E:\LUANVAN_ASP\MuaRe\Test\obj\Debug\ResolveAssemblyReference.cache
+E:\LUANVAN_ASP\MuaRe\Test\obj\Debug\Test.dll
+E:\LUANVAN_ASP\MuaRe\Test\obj\Debug\Test.pdb
+E:\LUANVAN_ASP\MuaRe\Test\bin\DTO.dll
+E:\LUANVAN_ASP\MuaRe\Test\bin\DTO.pdb

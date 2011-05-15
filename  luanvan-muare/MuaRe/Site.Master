@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MuaRe.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    MUARE.VN ADMIN PANEL
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Log In</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold">
+                        <asp:LoginName ID="HeadLoginName" runat="server" />
+                        </span>!
+                        [ 
+                        <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/>
+                        ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Hệ Thống"/>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Quản lý Công ty">
+                            <asp:MenuItem NavigateUrl="~/Congty/ThemCongTy.aspx" Text="Thêm công ty" />
+                            <asp:MenuItem NavigateUrl="~/Congty/DanhSachCongTy.aspx" Text="Danh sách công ty" />
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Quản lý User">
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Thêm user" />
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Danh sách user" />
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Quản lý Deal">
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Thêm Deal" />
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Danh sách deal" />
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Deal trong ngày" />
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Deal gần đây" />
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Deal đã hủy" />
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Quản lý Category">
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Thêm Category" />
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Danh sách Category" />
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Quản lý Thảo Luận"/>
+                        <asp:MenuItem Text="Quản lý đơn hàng" Value="Quản lý đơn hàng"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

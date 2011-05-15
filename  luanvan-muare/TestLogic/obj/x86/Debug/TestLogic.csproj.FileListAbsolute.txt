@@ -1,0 +1,11 @@
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\TestLogic.exe
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\TestLogic.pdb
+E:\LUANVAN_ASP\MuaRe\TestLogic\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LUANVAN_ASP\MuaRe\TestLogic\obj\x86\Debug\TestLogic.exe
+E:\LUANVAN_ASP\MuaRe\TestLogic\obj\x86\Debug\TestLogic.pdb
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\BUS.dll
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\DTO.dll
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\DAO.dll
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\BUS.pdb
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\DTO.pdb
+E:\LUANVAN_ASP\MuaRe\TestLogic\bin\Debug\DAO.pdb

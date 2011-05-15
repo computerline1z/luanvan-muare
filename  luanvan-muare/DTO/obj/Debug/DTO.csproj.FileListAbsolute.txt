@@ -1,0 +1,5 @@
+E:\LUANVAN_ASP\MuaRe\DTO\bin\Debug\DTO.dll
+E:\LUANVAN_ASP\MuaRe\DTO\bin\Debug\DTO.pdb
+E:\LUANVAN_ASP\MuaRe\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\LUANVAN_ASP\MuaRe\DTO\obj\Debug\DTO.dll
+E:\LUANVAN_ASP\MuaRe\DTO\obj\Debug\DTO.pdb

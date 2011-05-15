@@ -1,0 +1,7 @@
+E:\LUANVAN_ASP\MuaRe\DAO\bin\Debug\DAO.dll
+E:\LUANVAN_ASP\MuaRe\DAO\bin\Debug\DAO.pdb
+E:\LUANVAN_ASP\MuaRe\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\LUANVAN_ASP\MuaRe\DAO\obj\Debug\DAO.dll
+E:\LUANVAN_ASP\MuaRe\DAO\obj\Debug\DAO.pdb
+E:\LUANVAN_ASP\MuaRe\DAO\bin\Debug\DTO.dll
+E:\LUANVAN_ASP\MuaRe\DAO\bin\Debug\DTO.pdb
