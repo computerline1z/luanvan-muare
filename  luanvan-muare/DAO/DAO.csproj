@@ -41,14 +41,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CongTyDAO.cs" />
+    <Compile Include="DanhMucDAO.cs" />
     <Compile Include="DataProvider.cs" />
+    <Compile Include="DonDatHangDAO.cs" />
+    <Compile Include="HinhAnhDAO.cs" />
+    <Compile Include="KhuVucDAO.cs" />
+    <Compile Include="NguoiDungDAO.cs" />
+    <Compile Include="PhieuGiamGiaDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThaoLuanDAO.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DTO\DTO.csproj">
       <Project>{C553FD31-3F56-4877-B56E-22F03743297C}</Project>
       <Name>DTO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DAO.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

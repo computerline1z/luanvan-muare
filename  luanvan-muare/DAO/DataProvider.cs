@@ -10,7 +10,8 @@ namespace DAO
     class DataProvider
     {
         public static SqlConnection ConnectionData(){            
-            string strconn = @"Data Source=.\SQLEXPRESS;Initial Catalog=Muare;Integrated Security=True";
+            //string strconn = @"Data Source=.\SQLEXPRESS;Initial Catalog=Muare;Integrated Security=True";
+            string strconn = ConfigurationSettings.AppSettings["MuareConnectionString"];
             SqlConnection conn = new SqlConnection(strconn);
             conn.Open();
             return conn;
