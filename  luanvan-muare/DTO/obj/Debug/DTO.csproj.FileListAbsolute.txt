@@ -3,3 +3,8 @@ E:\LUANVAN_ASP\MuaRe\DTO\bin\Debug\DTO.pdb
 E:\LUANVAN_ASP\MuaRe\DTO\obj\Debug\ResolveAssemblyReference.cache
 E:\LUANVAN_ASP\MuaRe\DTO\obj\Debug\DTO.dll
 E:\LUANVAN_ASP\MuaRe\DTO\obj\Debug\DTO.pdb
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DTO\bin\Debug\DTO.dll
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DTO\bin\Debug\DTO.pdb
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DTO\obj\Debug\DTO.dll
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DTO\obj\Debug\DTO.pdb

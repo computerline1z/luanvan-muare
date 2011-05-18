@@ -5,3 +5,10 @@ E:\LUANVAN_ASP\MuaRe\DAO\obj\Debug\DAO.dll
 E:\LUANVAN_ASP\MuaRe\DAO\obj\Debug\DAO.pdb
 E:\LUANVAN_ASP\MuaRe\DAO\bin\Debug\DTO.dll
 E:\LUANVAN_ASP\MuaRe\DAO\bin\Debug\DTO.pdb
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DAO\bin\Debug\DAO.dll
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DAO\bin\Debug\DAO.pdb
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DAO\bin\Debug\DTO.dll
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DAO\bin\Debug\DTO.pdb
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DAO\obj\Debug\DAO.dll
+C:\Users\ntuanxb\Documents\My Dropbox\Project_LVTN\Muare\DAO\obj\Debug\DAO.pdb

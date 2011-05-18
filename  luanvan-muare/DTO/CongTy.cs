@@ -18,7 +18,9 @@ namespace DTO
         String dienThoai;
         String fax;
         String gioiThieu;
+        bool tinhTrang;        
         #endregion
+
         #region properties
         public int Mact
         {
@@ -81,6 +83,11 @@ namespace DTO
             set { gioiThieu = value; }
         }
 
+        public bool TinhTrang
+        {
+            get { return tinhTrang; }
+            set { tinhTrang = value; }
+        }
         #endregion
         public CongTy()
         {
